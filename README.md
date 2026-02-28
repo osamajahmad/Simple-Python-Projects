@@ -1,1 +1,3 @@
 # Python-Projects
+
+Simple-Python-Projects is a beginner-friendly collection of small Python mini-projects created to practice core programming skills. It includes Turtle graphics drawings, algorithm practice (insertion sort, merge sort, linear search, and binary search), and an object-oriented Polygon project with unit tests using pytest. Each project is independent and can be run on its own, making this repository a place to experiment, learn, and track progress over time.
